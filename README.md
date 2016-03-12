@@ -1,2 +1,5 @@
-# traitful-configs
-Example of the "traitful" config concept
+# Traitful Configs
+
+This is an example of the "traitful" config concept.
+
+[For more information see the related blog post.](https://phpind.de/traitful-configs)
